@@ -20,4 +20,4 @@ You will need to right-click on the file, click on properties, then you will see
 You will need to do the same for lines:
 25 and 22
 
-Once this is all taken care of, the game will be ready for you to play! Hope you Enjoy!
+Once this is all taken care of, the game will be ready for you to play! Hope you Enjoy! Also feel free to contribute!
